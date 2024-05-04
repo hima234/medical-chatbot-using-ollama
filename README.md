@@ -27,6 +27,7 @@ On the front end (the user side), I made a website using a tool called Chainlit.
 Ultimately, my medical chatbot project uses the pre-trained medllama2 model from Ollama. Users can access medllama2 through my Chainlit website. This solution allowed me to make a medical chatbot without the huge cost and effort of training my model from scratch.
 
 Old GitHub Project Link nextjs as frontend: https://github.com/hima234/chatbot
+
 Try 1 using hugging face: https://github.com/hima234/medical-chatbot
 
 Final Project Link: https://github.com/hima234/medical-chatbot-using-ollama
